@@ -1,2 +1,1 @@
-# vpack
-sem mais
+# VpsPack
